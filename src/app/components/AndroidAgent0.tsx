@@ -5,7 +5,7 @@ export function AndroidAgent0() {
         <h3>Android Agent 0</h3>
         <a
           className="link"
-          href="https://github.com/The-Agent-Foundation/android-agent-0"
+          href="https://github.com/the-agent-guy/android-agent-0"
           target="_blank"
           rel="noopener noreferrer"
         >

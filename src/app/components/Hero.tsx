@@ -7,7 +7,7 @@ export function Hero() {
         <h1>The Agent Foundation</h1>
         <a
           className="link"
-          href="https://github.com/The-Agent-Foundation"
+          href="https://github.com/the-agent-guy"
           target="_blank"
           rel="noopener noreferrer"
         >
