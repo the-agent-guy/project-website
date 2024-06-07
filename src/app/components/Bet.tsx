@@ -17,7 +17,7 @@ export function Bet() {
       <div className="w-[380px] md:w-[600px] px-4 flex items-center justify-evenly">
         <img src="/space.jpg" className="w-[100px] rounded-full" alt="AGI" />
         <article className="prose">
-          <h3>"AGI in 2 Years."</h3>
+          <h3>{`"AGI in 2 Years."`}</h3>
           <h4>- The Agent Guy, June 4 2024</h4>
         </article>
       </div>

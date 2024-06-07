@@ -8,7 +8,7 @@ export function Thesis() {
           to change.
         </li>
         <li>
-          First, Agents will be the key to unlocking AGI. There's more to
+          First, Agents will be the key to unlocking AGI. There is more to
           intelligence than neurons firing. For humans, having tools and varied
           output modalities played a huge role achieving our current status as
           the dominant intelligence.
